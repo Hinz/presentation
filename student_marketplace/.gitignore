@@ -1,3 +1,28 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+
+# Build outputs
+build/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Web
+web/.dart_tool/
+web/.firebase/
+
+# Misc
+pubspec.lock
+coverage/
+.DS_Store
+Thumbs.db
+
 # Miscellaneous
 *.class
 *.log
